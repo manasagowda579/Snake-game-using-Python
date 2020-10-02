@@ -2,7 +2,7 @@
 Creating a simple snake game using Python and pygame
 
 # Introduction
-As kids we all have played the snake game and definitley never wanted to lose. Here is a simple code to bulid the classic game called Snake using Python.
+As kids we all have played the snake game and definitely never wanted to lose. Here is a simple code to build the classic game called Snake using Python.
 
 # Objective
 To help navigate the snake to get its food without touching the borders.
